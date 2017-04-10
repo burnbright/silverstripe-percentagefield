@@ -6,10 +6,11 @@
         "silverstripe/framework": "~3.1"
     },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Jeremy Shipman",
-            "email": "jeremy@burnbright.net"
-        }
-    ]
+    "authors": [{
+        "name": "Jeremy Shipman",
+        "email": "jeremy@burnbright.net"
+    }],
+    "extra": {
+        "installer-name": "organisations"
+    }
 }
